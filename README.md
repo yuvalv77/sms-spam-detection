@@ -27,7 +27,6 @@ https://www.kaggle.com/datasets/team-ai/spam-text-message-classification
 
 Open `SMS_Spam_Detection.ipynb` directly in GitHub to view the code, explanations, and saved execution outputs without downloading the file.
 
-If you want to run the notebook in Google Colab, upload the dataset CSV when the notebook asks for it.
 
 ## AI Assistance
 
